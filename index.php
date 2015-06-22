@@ -79,7 +79,7 @@
 				
 				<h4>Education</h4><br />
 				<div class="title">St. Clair College</div>
-				<div class="date">Sept 2008 – April 2011</div><!-- 2008 - April 2011-->
+				<div class="date">2008 – 2011</div><!-- 2008 - April 2011-->
 				<div class="notes">Computer Systems Technologist</div>
 				<div class="division"></div>
 				<div class="title">Belle River District High School</div>
@@ -153,11 +153,6 @@
 						<li>Designing, installing, and configuring Local Area Networks and designing and simulating Wide Area Networks in a lab environment using Cisco equipment.</li>
 						<li>Extensive troubleshooting experience using Windows Administrative Tools for Server 2003/2008 R2.</li>
 						<li>Experienced in configuring Certificate Services, Active Directory Domain Services, Group Policy, Remote Access, IPSec, and VPN's</li>
-						<li>Extensive experience with Microsoft products, both current and legacy OS </li>
-						<li>Designing, installing, and configuring Local Area Networks and designing and simulating Wide Area Networks in a lab environment</li>
-						<li>Knowledge and experience in lab using TCP/IP; and Routing Protocols: RIP1/2, EIGRP, and OSPF.</li>
-                        <li>Extensive troubleshooting experience using Windows Administrative Tools in Server 2003/2008.</li>
-                        <li>Experienced in configuring Certificate Services, Remote Access, IPSec, and VPN's</li>
 					</ul>
 				</div>
 				
