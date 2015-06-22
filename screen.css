@@ -1,0 +1,264 @@
+body
+{
+    font-family: Tahoma, Arial;
+    font-size: 12px;
+
+    margin: 0;
+    padding: 0;
+
+    background-color: #0b203e;
+    background-image: url('pattern.png');
+}
+
+#header
+{
+    width: 960px;
+    height: 300px;
+    /*Thanks to flyoverpeople.net for this open sourced background.*/
+
+    background: url('background.jpg') no-repeat;
+}
+
+#container
+{
+    width: 100%;
+    margin-top: 28px;
+}
+
+#info
+{
+    float: left;
+
+    width: 500px;
+}
+
+#content
+{
+    position: relative;
+
+    width: 960px;
+    height: 1100px;
+    margin: 0 auto;
+
+    background-color: rgba(255,255,255,.8);
+    -webkit-box-shadow: 0 2px 20px rgba(0,0,0,.8);
+       -moz-box-shadow: 0 2px 20px rgba(0,0,0,.8);
+            box-shadow: 0 2px 20px rgba(0,0,0,.8); /*New for IE9*/
+}
+
+#lcolumn
+{
+    float: left;
+
+    width: 430px;
+    padding-left: 32px;
+}
+
+#rcolumn
+{
+    float: left;
+
+    width: 430px;
+    padding-right: 30px;
+    padding-left: 36px;
+}
+#footer
+{
+    width: 960px;
+    height: 5px;
+    margin: 0 auto;
+
+    -webkit-border-top-left-radius: 50px 30px;
+    -moz-border-radius-topleft: 50px 30px;
+    -webkit-border-top-right-radius: 50px 30px;
+    -moz-border-radius-topright: 50px 30px;
+    -webkit-box-shadow: 0 0 20px rgba(255,255,255,1);
+       -moz-box-shadow: 0 0 20px rgba(0,255,255,1);
+}
+h1
+{
+    font-size: 60px;
+    font-weight: normal;
+
+    height: 80px;
+    margin: 0;
+    padding: 35px 0 0 32px;
+
+    color: #fff;
+}
+
+h2
+{
+    font-size: 14px;
+    font-weight: bold;
+
+    height: 16px;
+    margin: 0;
+    padding: 8px 0;
+
+    color: #fff;
+    border-top: 1px solid black;
+}
+
+.plain
+{
+    text-decoration: none;
+
+    color: white;
+}
+
+.plain:hover
+{
+    text-decoration: underline;
+}
+
+.listend
+{
+    border-bottom: 1px solid black; /*#388ac9*/
+}
+
+#save
+{
+    font-size: 11px;
+
+    width: 960px;
+    margin: 0 auto;
+    padding: 50px 0 5px 0;
+
+    text-align: right;
+}
+
+#save a
+{
+    padding: 10px;
+
+    text-decoration: none;
+
+    color: #0073c9;
+}
+#save a:visited
+{
+    color: #0073c9;
+}
+#save a:hover
+{
+    text-decoration: underline;
+}
+
+#wep
+{
+    float: left;
+
+    width: 400px;
+    padding: 10px 0 0 32px;
+}
+
+#social
+{
+    float: left;
+
+    width: 300px;
+    padding-top: 14px;
+    padding-left: 10px;
+
+    text-align: center;
+}
+
+#social a
+{
+    margin-right: 35px;
+}
+
+#social img
+{
+    border: 0;
+}
+
+#photo
+{
+    float: right;
+
+    width: 270px;
+}
+
+#photo img
+{
+    margin-top: 40px;
+    /*-webkit-transform:rotate(4deg);
+	-moz-transform:rotate(4deg);
+	transform:rotate(4deg); /*New for IE9*/
+    /*border: 12px solid rgba(0,0,0,0);*/
+
+    border: 12px solid #fff;
+}
+
+h4
+{
+    font-size: 25px;
+    font-weight: normal;
+
+    float: left;
+    clear: both;
+
+    width: auto;
+    margin-bottom: 10px;
+    padding: 3px;
+
+    color: #336aaa;
+}
+
+.date
+{
+    font-size: 12px;
+    line-height: 28px;
+
+    float: right;
+
+    width: 128px;
+    height: 36px;
+    padding-top: 4px;
+
+    text-align: center;
+
+    color: #fff;
+    background: url('date_bg.png') no-repeat;
+}
+
+.title
+{
+    font-size: 19px;
+
+    float: left;
+    clear: both;
+
+    padding-top: 7px;
+}
+
+.notes
+{
+    float: left;
+    clear: both;
+}
+
+.division
+{
+    clear: both;
+
+    height: 20px;
+    /*border-top: 1px solid black;*/
+}
+
+.bullet ul
+{
+    padding-left: 15px;
+}
+
+.print
+{
+    display: none;
+}
+
+.blue
+{
+    color: #98cdc9;
+}

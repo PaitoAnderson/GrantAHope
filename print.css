@@ -1,0 +1,65 @@
+body
+{
+    margin: 0;
+    padding: 0;
+
+    color: black;
+    background-color: white;
+}
+#info
+{
+    float: left;
+
+    width: 400px;
+}
+#social
+{
+    display: none;
+}
+h2
+{
+    font-size: 16pt;
+}
+h2:first-letter
+{
+    text-transform: uppercase;
+}
+h4
+{
+    clear: both;
+
+    margin: 0;
+    margin-top: 15px;
+    padding: 0;
+}
+.website:after
+{
+    display: run-in/inline;
+
+    content: 'ebsite';
+}
+.email:after
+{
+    display: run-in/inline;
+
+    content: 'mail';
+}
+.phone:after
+{
+    display: run-in/inline;
+
+    content: 'hone';
+}
+.reference
+{
+    display: none;
+}
+
+.bullet ul
+{
+    margin-top: 0;
+}
+#footer
+{
+    display: none;
+}
