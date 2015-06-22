@@ -79,8 +79,8 @@
 				
 				<h4>Education</h4><br />
 				<div class="title">St. Clair College</div>
-				<div class="date">2008 – 2011</div><!-- 2008 - April 2011-->
-				<div class="notes">Computer Systems Technologist – GPA 3.626</div>
+				<div class="date">Sept 2008 – April 2011</div><!-- 2008 - April 2011-->
+				<div class="notes">Computer Systems Technologist</div>
 				<div class="division"></div>
 				<div class="title">Belle River District High School</div>
 				<div class="date">2004 - 2008</div><!--Sept 2004 - 2008-->
@@ -88,8 +88,21 @@
 				<div class="division"></div>
 				
 				<h4>Work Experience</h4><br />
-				<div class="title">Compugen </div>
-				<div class="date">2011 - present</div>
+				<div class="title">Union Gas</div>
+				<div class="date">2014 - present</div>
+				<div class="notes bullet">
+					<ul>
+						<li>Security Specialist</li>
+						<li>Administer and respond to offenses using QRadar (SIEM)</li>
+						<li>Provide solutions and recommendations to improve upon Enterprise Security defense against malicious actors</li>
+						<li>Develop and maintain processes</li>
+						<li>Respond to and analyze malware infections and suspicious activity</li>
+						<li>Provide proactive responses to emerging threats </li>
+						<li>Vulnerability management</li>
+					</ul>
+				</div>				
+				<div class="title">Compugen</div>
+				<div class="date">2011 - 2013</div>
 				<div class="notes bullet">
 					<ul>
 						<li>Operation Support Analyst</li>
@@ -132,8 +145,14 @@
 				<h4>Technical Expertise</h4><br />
 				<div class="notes bullet">
 					<ul>
-						<li>First place St Clair College networking competition and participated at the Ontario Skills Competition for Computer Networking (2011)</li>
-						<li>Designed a Network Specification Document which encompasses Requirements Gathering phase, Traffic Analysis phase, Logical design, Physical design.</li>
+						<li>Design and configuration of SCCM 2012</li>
+						<li>Administration and maintenance of SCCM 2007 and SCCM 2012</li>
+						<li>Experience configuring and using USMT</li>
+						<li>Designed a Network Specification Document which encompasses Requirements Gathering phase, Traffic Analysis phase, Logical design, and Physical design.</li>
+						<li>Extensive experience with Microsoft products, both current and legacy OS</li>
+						<li>Designing, installing, and configuring Local Area Networks and designing and simulating Wide Area Networks in a lab environment using Cisco equipment.</li>
+						<li>Extensive troubleshooting experience using Windows Administrative Tools for Server 2003/2008 R2.</li>
+						<li>Experienced in configuring Certificate Services, Active Directory Domain Services, Group Policy, Remote Access, IPSec, and VPN's</li>
 						<li>Extensive experience with Microsoft products, both current and legacy OS </li>
 						<li>Designing, installing, and configuring Local Area Networks and designing and simulating Wide Area Networks in a lab environment</li>
 						<li>Knowledge and experience in lab using TCP/IP; and Routing Protocols: RIP1/2, EIGRP, and OSPF.</li>
@@ -143,7 +162,11 @@
 				</div>
 				
 				<h4>Certifications</h4><br />
-                <div class="notes">Cisco Certified Networking Associate (CCNA) certification as of September of 2010 </div>
+				<div class="notes">Administering and Deploying System Center 2012 Configuration Manager</div>
+				<div class="division"></div>
+				<div class="notes">Cisco Certified Network Associate Security (CCNA Security) – National Training Standard for Informational Systems Security (INFOSEC) #4011</div>
+                <div class="division"></div>
+				<div class="notes">Cisco Certified Networking Associate (CCNA) certification as of September of 2010 </div>
                 <div class="division"></div>
 				<div class="notes print"><i>References available upon request.</i></div>
 				
