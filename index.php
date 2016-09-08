@@ -59,7 +59,6 @@
 					<div id="wep"> 
 						<h2><span class="blue"><span class="website">w</span>:</span> <a class="plain" href="http://grantahope.com/">grantahope.com</a></h2> 
 						<h2><span class="blue"><span class="email">e</span>:</span> <script type="text/javascript">showEM("epohatnarg","moc.liamg");</script></h2> 
-						<h2 class="listend"><span class="blue"><span class="phone">p</span>:</span> <a class="plain" href="tel:+1519-560-7078">+1 (519) 560-7078</a></h2> 
 					</div>
 				</div>
 
